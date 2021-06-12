@@ -15,7 +15,7 @@ console.log(Cat)
 console.log(white);
 console.log(black);
 
-const catsArr = ['Cat1', 'Cats', 'Catd','Cat4','Cat5','Cat6']
+const catsArr = ['Cat1', 'Cat2', 'Cat3','Cat4','Cat5','Cat6']
 for (let i = 0; i < 6; i++){
   console.log(catsArr);
 }
